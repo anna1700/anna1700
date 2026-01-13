@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Rasnah! 👋
+*Information Systems Student | UI/UX Enthusiast | Junior Web Developer*
 
-<!--
-**anna1700/anna1700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya! Saya suka membangun aplikasi web yang bermanfaat dan desain yang user-friendly.
 
-Here are some ideas to get you started:
+🔭 **Sedang mengerjakan:**
+- Sistem Penilaian Juri Real-time (React + Firebase)
+- Pengembangan UI/UX untuk Startup Lokal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Tech Stack & Tools:**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+📫 **Hubungi Saya:**
+- LinkedIn: [Nama LinkedIn Kamu]
+- Instagram: @[Username IG Kamu]
+
+---
+*“Coding is not just about logic, it's about creating art that works.”*

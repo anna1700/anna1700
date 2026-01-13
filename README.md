@@ -32,7 +32,7 @@ Selamat datang di profil GitHub saya! Saya mahasiswa Sistem Informasi yang memil
 
 
 📫 **Hubungi Saya:**
-- LinkedIn: []
+- LinkedIn: [www.linkedin.com/in/rasna-anjani]
 - Instagram: @[afsheen_114]
 - Instagram bisnis : @[craftra.id]
 - instagram bisni : @[hamperstaaa]

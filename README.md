@@ -14,8 +14,8 @@ Selamat datang di profil GitHub saya! Saya suka membangun aplikasi web yang berm
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 📫 **Hubungi Saya:**
-- LinkedIn: [Nama LinkedIn Kamu]
-- Instagram: @[Username IG Kamu]
+- LinkedIn: []
+- Instagram: @[afsheen_114]
 
 ---
 *“Coding is not just about logic, it's about creating art that works.”*

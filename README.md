@@ -35,7 +35,7 @@ Selamat datang di profil GitHub saya! Saya mahasiswa Sistem Informasi yang memil
 - LinkedIn: [www.linkedin.com/in/rasna-anjani]
 - Instagram: @afsheen_114
 - Instagram bisnis : @craftra.id
-- instagram bisni : @hamperstaaa
+- instagram bisnis : @hamperstaaa
 
 ---
 *“Coding is not just about logic, it's about creating art that works.”*

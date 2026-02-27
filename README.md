@@ -1,7 +1,7 @@
 ### Hi there, I'm Rasnah! 👋
 *Information Systems Student | UI/UX Enthusiast | Junior Web Developer*
 
-Selamat datang di profil GitHub saya! Saya mahasiswa Sistem Informasi yang memiliki ketertarikan kuat dalam membangun aplikasi web dan desain antarmuka.
+Selamat datang di profil GitHub saya! Saya mahasiswa Sistem Informasi yang memiliki ketertarikan kuat dalam membangun Aplikasi Web, Desain UI/UX dan Berbisnis.
 
 🔭 **Sedang mengerjakan:**
 - Sistem Penilaian Juri Real-time (React + Firebase)
